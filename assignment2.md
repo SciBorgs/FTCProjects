@@ -41,7 +41,7 @@ Instead, we use a version control system called Git.
 3. join the classroom...?
 
 ### Learning how to use git
-Follow [this tutorial](https://learngitbranching.js.org/) to learn about how to use git
+Follow [this tutorial](https://learngitbranching.js.org/) to learn about how to use git. Please complete the introductory sequence.
 
 Note that it will assume you are familiar with certain concepts and vocabulary (i.e. directory), so make sure to look up any words you don't understand! Additionally, the commands it is teaching you would generally be typed into a command-line shell (terminal for MacOS or Linux; command shell, powershell, or git bash, or terminal for Windows).
 
@@ -74,3 +74,5 @@ All the euler problems can be found in the project euler [archives](https://proj
 As a general matter **PLEASE DON'T CHEAT**! If we find out, you will be disqualified from joining FRC, and even if we don't, it's a bad strategy. Remember that your in person work will be a big factor in admission to FRC teams, so if you cheat on your assignemnts, you won't show the understanding in person that you do from assignments, and we will notice.
 
 The problem set for this assignment is euler problems [8](https://projecteuler.net/problem=8) to [11](https://projecteuler.net/problem=11).
+
+Have fun!
