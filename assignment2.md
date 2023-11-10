@@ -4,7 +4,7 @@ This assignment is pretty long, but only the first 3 sections are necessary prer
 
 If you need help with any part of this assignment, at least one FRC programming head should be at every meeting, so feel free to ask for help there. You can also contact us by email, at [insert appropriate email].
 
-Starting next week, we will be using GitHub classroom for managing these assignments, so once that's set up you can contact us there as well.
+Note that starting next week, we will be using GitHub for all projects.
 
 ## Submission
 
@@ -38,7 +38,6 @@ Instead, we use a version control system called Git.
 1. create a github account (if you haven't already)
 2. follow [this guide](https://github.com/git-guides/install-git) to install git on a personal computer
     - Important note: if you have linux, we recommend choosing the "Use Git from the Windows Command Prompt" option
-3. join the classroom...?
 
 ### Learning how to use git
 Follow [this tutorial](https://learngitbranching.js.org/) to learn about how to use git. Please complete the introductory sequence.
