@@ -1,14 +1,14 @@
-# Assignment 2
+# Project 0
 
-This assignment is pretty long, but only the first 3 sections are necessary prerequisites for future assignments, so prioritise those. As always, there is no due date, so you can work on this on your own timeline. Just note that the sooner you complete assignments, the sooner FRC teams have the option of taking you!
+This is pretty long, but only the first 3 sections are necessary prerequisites for future projects, so prioritise those. As always, there is no due date, so you can work on this on your own timeline. Just note that the sooner you complete projects, the sooner FRC teams have the option of taking you!
 
-If you need help with any part of this assignment, at least one FRC programming head should be at every meeting, so feel free to ask for help there. You can also contact us by email, at [insert appropriate email].
+If you need help with any part of this, at least one FRC programming head should be at every meeting, so feel free to ask for help there. You can also contact us by email, at [insert appropriate email].
 
 Note that starting next week, we will be using GitHub for all projects.
 
 ## Submission
 
-You don't need to submit anything for parts [1](#1-setting-up-git), [2](#2-installing-wpilib), and [3](#3-euler-problems), but we will assume that you have completed them for all future assignments.
+You don't need to submit anything for parts [1](#1-setting-up-git), [2](#2-installing-wpilib), and [3](#3-euler-problems), but we will assume that you have completed them for all future projects.
 
 For part [3](#3-euler-problems), submit your code through these forms:
 
@@ -49,7 +49,7 @@ Please go through [command line crash course](https://developer.mozilla.org/en-U
 ## 2: Installing WPILib
 
 ### What is WPILib?
-WPILib is the library that we use to code FRC robots. After this installation, you will be able to complete more robotics specific future assignments.
+WPILib is the library that we use to code FRC robots. After this installation, you will be able to complete more robotics specific future projects.
 
 ### Setup
 Follow [this guide](https://docs.wpilib.org/en/latest/docs/zero-to-robot/step-2/wpilib-setup.html) to install the latest version of WPILib on a personal computer.
@@ -70,8 +70,8 @@ Project Euler is a series of math/computational problems meant to be solved with
 ### Problems
 All the euler problems can be found in the project euler [archives](https://projecteuler.net/archives). You can solve them wherever you want with whatever language you want, and enter your result you get into project euler to check your solution.
 
-As a general matter **PLEASE DON'T CHEAT**! If we find out, you will be disqualified from joining FRC, and even if we don't, it's a bad strategy. Remember that your in person work will be a big factor in admission to FRC teams, so if you cheat on your assignemnts, you won't show the understanding in person that you do from assignments, and we will notice.
+As a general matter **PLEASE DON'T CHEAT**! If we find out, you will be disqualified from joining FRC, and even if we don't, it's a bad strategy. Remember that your in person work will be a big factor in admission to FRC teams, so if you cheat on your assignemnts, you won't show the understanding in person that you do from online submissions, and we will notice.
 
-The problem set for this assignment is euler problems [8](https://projecteuler.net/problem=8) to [11](https://projecteuler.net/problem=11).
+The problem set for this project is euler problems [8](https://projecteuler.net/problem=8) to [11](https://projecteuler.net/problem=11).
 
 Have fun!
