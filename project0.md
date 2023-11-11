@@ -2,7 +2,7 @@
 
 This is pretty long, but only the first 3 sections are necessary prerequisites for future projects, so prioritise those. As always, there is no due date, so you can work on this on your own timeline. Just note that the sooner you complete projects, the sooner FRC teams have the option of taking you!
 
-If you need help with any part of this, at least one FRC programming head should be at every meeting, so feel free to ask for help there. You can also contact us by email, at [insert appropriate email].
+If you need help with any part of this, at least one FRC programming head should be at every meeting, so feel free to ask for help there. You can also contact us by email, at sigalm2@nycstudents.net, asap6@nycstudents.net, and alicel2789@nycstudents.net, andanqik@nycstudents.net (we'd prefer you cc all of us rather than sending to just one).
 
 Note that starting next week, we will be using GitHub for all projects.
 
