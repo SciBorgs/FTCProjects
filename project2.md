@@ -8,9 +8,9 @@ Note that starting next week, we will be using GitHub for all projects.
 
 ## Submission
 
-You don't need to submit anything for parts [1](#1-setting-up-git), [2](#2-installing-wpilib), and [3](#3-euler-problems), but we will assume that you have completed them for all future projects.
+You don't need to submit anything for parts [1](#1-setting-up-git), [2](#2-installing-wpilib), and [3](#3-organizing-your-computer), but we will assume that you have completed them for all future projects.
 
-For part [3](#3-euler-problems), submit your code through these forms:
+For part [4](#4-euler-problems), submit your code through these forms:
 
 [problem 8 submission](https://forms.gle/LyqHTr19krnMAnM87)
 
