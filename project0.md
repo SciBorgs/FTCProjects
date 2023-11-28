@@ -55,7 +55,7 @@ WPILib is the library that we use to code FRC robots. After this installation, y
 Follow [this guide](https://docs.wpilib.org/en/latest/docs/zero-to-robot/step-2/wpilib-setup.html) to install the latest version of WPILib on a personal computer.
 
 ## 3: Organizing your computer
-As part of this program, you will be writing a lot of code, and your life will be so much eaasier if you have that code nicely organized on your computer. If you haven't already, please make a code folder and/or a robotics folder in your home directory. (You could also put it in documents, but I wouldn't reccomend it). All code you write in the future, including the code for the next part of this homework (if you don't use Replit), should go in this new folder.
+As part of this program, you will be writing a lot of code, and your life will be so much easier if you have that code nicely organized on your computer. If you haven't already, please make a code folder and/or a robotics folder in your home directory. (You could also put it in documents, but I wouldn't reccomend it). All code you write in the future, including the code for the next part of this homework (if you don't use Replit), should go in this new folder.
 
 On that note, I know a lot of you guys are probably using mostly Replit at this point, but that will change very soon, so don't skip this step!
 
